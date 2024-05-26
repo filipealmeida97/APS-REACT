@@ -1,3 +1,8 @@
+/**
+ * Este código configura a renderização inicial de uma aplicação React,
+ *  utilizando o Chakra UI para estilização e o React.StrictMode para 
+ * ajudar a identificar problemas durante o desenvolvimento.
+ */
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
