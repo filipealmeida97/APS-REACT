@@ -24,4 +24,4 @@ Vite é um bundler de desenvolvimento rápido para projetos baseados em JavaScri
 
 3o. -> `yarn dev`
 
-Este comando para iniciar o servidor de desenvolvimento, que compilará o código e possibilitará o ambiente para teste acessando pelo endereço local informado no terminal.
+Este comando é para iniciar o servidor de desenvolvimento, que compilará o código e possibilitará um ambiente para teste acessando pelo endereço local informado no terminal.
