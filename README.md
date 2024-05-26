@@ -18,9 +18,9 @@ Este comando irá clonar esse repositório na raiz da pasta que receberá os arq
 
 Instalação do Yarn: O Yarn é um gerenciador de pacotes alternativo ao npm. Você pode instalar o Yarn globalmente executando o comando acima no terminal.
 
-3o. -> `yarn create vite ./ --template react`
+3o. -> `yarn add vite --dev`
 
-Vite é um bundler de desenvolvimento rápido para projetos baseados em JavaScript. Para iniciar um novo projeto com Vite e React, execute o seguinte comando acima no terminal
+Vite é um bundler de desenvolvimento rápido para projetos baseados em JavaScript. Para iniciar um projeto com Vite e React, execute o seguinte comando acima no terminal
 
 3o. -> `yarn dev`
 
