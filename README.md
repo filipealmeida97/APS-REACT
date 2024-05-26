@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 ## Comandos para iniciar o projeto
 
-1o. -> `git clone <nome_do_repo> ./`
+1o. -> `git clone [<nome_do_repo>](https://github.com/filipealmeida97/APS-REACT.git) ./`
 
 Este comando irá clonar esse repositório na raiz da pasta que receberá os arquivos do projeto.
 
